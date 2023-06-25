@@ -1,11 +1,8 @@
 # UVK5_reversing
-Reverse engineered UV-K5 schematics
-These are extremely incomplete and inaccurate schematics me and others have made for Quansheng UV-K5 radio.
-
-All seen here is based on looking and measuring the radio PCB. 
-
-These files are here mostly for my own convenience and to make it possible for others to complain about inaccuracies.
-
+Reverse engineered UV-K5 schematics  
+These are extremely incomplete and inaccurate schematics me and others have made for Quansheng UV-K5 radio.  
+All seen here is based on looking and measuring the radio PCB.   
+These files are here mostly for my own convenience and to make it possible for others to complain about inaccuracies.  
 This does not have a corressponding PCB yet, because I did not care for it.
 
 ##### Contributing
