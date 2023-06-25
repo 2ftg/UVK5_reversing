@@ -15,11 +15,11 @@ If you want to reverse some segment of the PCB:
 - Pullrequest that file or whatever. 
 
 ##### Links to firmwares and more info
-Tunas1337 hosts a good bunch of modded firmwares.
-<https://github.com/Tunas1337/UV-K5-Modded-Firmwares>
-Also the awesome uvmod-kitchen, which allows one can pick & mix your mods to get a custom firmware image.
-<https://github.com/amnemonic/Quansheng_UV-K5_Firmware/tree/main/uvmod_kitchen>
-Amnemonic's collection of stock firmware images has helped with the reversing process.
-<https://github.com/amnemonic/Quansheng_UV-K5_Firmware>
-You can read those firmware images with fagci's firmware decoder tool
-<https://github.com/fagci/qs-uvk5-firmware-modder>
+Tunas1337 hosts a good bunch of modded firmwares.   
+<https://github.com/Tunas1337/UV-K5-Modded-Firmwares>   
+Also the awesome uvmod-kitchen, which allows one can pick & mix your mods to get a custom firmware image.   
+<https://github.com/amnemonic/Quansheng_UV-K5_Firmware/tree/main/uvmod_kitchen>   
+Amnemonic's collection of stock firmware images has helped with the reversing process.   
+<https://github.com/amnemonic/Quansheng_UV-K5_Firmware>   
+You can read those firmware images with fagci's firmware decoder tool   
+<https://github.com/fagci/qs-uvk5-firmware-modder>   
